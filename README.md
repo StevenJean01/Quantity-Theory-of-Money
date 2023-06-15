@@ -7,6 +7,8 @@ Initially, I couldn't establish a direct link between money supply and inflation
 
 I would greatly appreciate any feedback or thoughts you may have regarding this analysis.
 
+**Please click on the Final Project Quantity Theory of Money.do to see the code**
+
                                           Variable Description
 date:	The date variable shows the year month and exact date of the observation in the format (YYYY-MM-DD).
 M1:	This Variable gives us the Currency kept outside of banks, personal and non-personal chequable deposits held at chartered banks, all chequable deposits held by trust and mortgage lending companies, credit unions, and caisses populaires (apart from deposits held by these organisations), as well as continuity adjustments.
